@@ -1,0 +1,553 @@
+/way #2133 37.2 90.5 Titan-Touched Serevite Deposit
+/way #2133 40.3 55.6 Titan-Touched Serevite Deposit
+/way #2133 41.6 44.3 Titan-Touched Serevite Deposit
+/way #2133 41.9 41.4 Titan-Touched Serevite Deposit
+/way #2133 41.9 41.5 Titan-Touched Serevite Deposit
+/way #2133 43.0 42.7 Titan-Touched Serevite Deposit
+/way #2133 43.4 50.2 Titan-Touched Serevite Deposit
+/way #2133 43.9 44.5 Titan-Touched Serevite Deposit
+/way #2133 44.2 47.0 Titan-Touched Serevite Deposit
+/way #2133 44.4 41.6 Titan-Touched Serevite Deposit
+/way #2133 44.4 49.4 Titan-Touched Serevite Deposit
+/way #2133 44.4 49.5 Titan-Touched Serevite Deposit
+/way #2133 44.4 54.6 Titan-Touched Serevite Deposit
+/way #2133 45.3 36.9 Titan-Touched Serevite Deposit
+/way #2133 45.8 49.9 Titan-Touched Serevite Deposit
+/way #2133 46.4 45.4 Titan-Touched Serevite Deposit
+/way #2133 46.4 45.5 Titan-Touched Serevite Deposit
+/way #2133 46.4 47.5 Titan-Touched Serevite Deposit
+/way #2133 46.9 41.9 Titan-Touched Serevite Deposit
+/way #2133 47.0 41.3 Titan-Touched Serevite Deposit
+/way #2133 47.2 50.4 Titan-Touched Serevite Deposit
+/way #2133 47.3 50.5 Titan-Touched Serevite Deposit
+/way #2133 47.5 43.2 Titan-Touched Serevite Deposit
+/way #2133 48.0 48.4 Titan-Touched Serevite Deposit
+/way #2133 48.1 34.9 Titan-Touched Serevite Deposit
+/way #2133 48.3 44.1 Titan-Touched Serevite Deposit
+/way #2133 48.3 46.0 Titan-Touched Serevite Deposit
+/way #2133 48.4 39.4 Titan-Touched Serevite Deposit
+/way #2133 48.4 39.5 Titan-Touched Serevite Deposit
+/way #2133 48.4 46.5 Titan-Touched Serevite Deposit
+/way #2133 48.5 46.4 Titan-Touched Serevite Deposit
+/way #2133 48.5 46.5 Titan-Touched Serevite Deposit
+/way #2133 48.7 35.1 Titan-Touched Serevite Deposit
+/way #2133 48.8 30.8 Titan-Touched Serevite Deposit
+/way #2133 48.8 33.4 Titan-Touched Serevite Deposit
+/way #2133 48.9 39.9 Titan-Touched Serevite Deposit
+/way #2133 48.9 40.6 Titan-Touched Serevite Deposit
+/way #2133 49.3 43.3 Titan-Touched Serevite Deposit
+/way #2133 49.6 45.7 Titan-Touched Serevite Deposit
+/way #2133 49.6 49.5 Titan-Touched Serevite Deposit
+/way #2133 49.7 49.4 Titan-Touched Serevite Deposit
+/way #2133 50.0 33.8 Titan-Touched Serevite Deposit
+/way #2133 50.6 42.9 Titan-Touched Serevite Deposit
+/way #2133 51.2 51.0 Titan-Touched Serevite Deposit
+/way #2133 51.8 45.2 Titan-Touched Serevite Deposit
+/way #2133 56.1 68.5 Titan-Touched Serevite Deposit
+/way #2133 56.2 68.4 Titan-Touched Serevite Deposit
+/way #2133 57.1 65.3 Titan-Touched Serevite Deposit
+/way #2133 58.4 64.3 Titan-Touched Serevite Deposit
+/way #2133 58.4 68.4 Titan-Touched Serevite Deposit
+/way #2133 58.5 64.3 Titan-Touched Serevite Deposit
+/way #2133 58.5 68.3 Titan-Touched Serevite Deposit
+/way #2133 59.3 50.0 Titan-Touched Serevite Deposit
+/way #2133 60.1 57.4 Titan-Touched Serevite Deposit
+/way #2133 61.1 51.4 Titan-Touched Serevite Deposit
+/way #2133 61.1 51.5 Titan-Touched Serevite Deposit
+/way #2133 61.3 54.2 Titan-Touched Serevite Deposit
+/way #2133 61.4 54.9 Titan-Touched Serevite Deposit
+/way #2133 61.5 54.9 Titan-Touched Serevite Deposit
+/way #2133 62.1 51.4 Titan-Touched Serevite Deposit
+/way #2133 62.1 51.5 Titan-Touched Serevite Deposit
+/way #2133 62.4 52.7 Titan-Touched Serevite Deposit
+/way #2133 62.5 52.7 Titan-Touched Serevite Deposit
+/way #2133 72.3 49.1 Titan-Touched Serevite Deposit
+/way #2133 37.2 90.5 Metamorphic Serevite Deposit
+/way #2133 40.3 55.4 Metamorphic Serevite Deposit
+/way #2133 40.3 55.6 Metamorphic Serevite Deposit
+/way #2133 41.6 44.3 Metamorphic Serevite Deposit
+/way #2133 41.9 41.4 Metamorphic Serevite Deposit
+/way #2133 41.9 41.5 Metamorphic Serevite Deposit
+/way #2133 43.0 42.6 Metamorphic Serevite Deposit
+/way #2133 43.4 50.3 Metamorphic Serevite Deposit
+/way #2133 43.9 44.4 Metamorphic Serevite Deposit
+/way #2133 43.9 44.5 Metamorphic Serevite Deposit
+/way #2133 44.2 47.0 Metamorphic Serevite Deposit
+/way #2133 44.4 41.6 Metamorphic Serevite Deposit
+/way #2133 44.4 49.4 Metamorphic Serevite Deposit
+/way #2133 44.4 49.5 Metamorphic Serevite Deposit
+/way #2133 44.4 54.6 Metamorphic Serevite Deposit
+/way #2133 44.5 49.4 Metamorphic Serevite Deposit
+/way #2133 44.5 54.5 Metamorphic Serevite Deposit
+/way #2133 45.3 36.9 Metamorphic Serevite Deposit
+/way #2133 45.8 49.9 Metamorphic Serevite Deposit
+/way #2133 46.4 45.4 Metamorphic Serevite Deposit
+/way #2133 46.4 45.5 Metamorphic Serevite Deposit
+/way #2133 46.4 47.4 Metamorphic Serevite Deposit
+/way #2133 46.4 47.5 Metamorphic Serevite Deposit
+/way #2133 46.9 41.9 Metamorphic Serevite Deposit
+/way #2133 47.0 41.3 Metamorphic Serevite Deposit
+/way #2133 47.2 50.4 Metamorphic Serevite Deposit
+/way #2133 47.3 50.5 Metamorphic Serevite Deposit
+/way #2133 47.4 43.2 Metamorphic Serevite Deposit
+/way #2133 47.5 43.2 Metamorphic Serevite Deposit
+/way #2133 48.0 48.4 Metamorphic Serevite Deposit
+/way #2133 48.0 48.5 Metamorphic Serevite Deposit
+/way #2133 48.1 34.9 Metamorphic Serevite Deposit
+/way #2133 48.3 44.1 Metamorphic Serevite Deposit
+/way #2133 48.3 46.0 Metamorphic Serevite Deposit
+/way #2133 48.4 39.4 Metamorphic Serevite Deposit
+/way #2133 48.4 39.5 Metamorphic Serevite Deposit
+/way #2133 48.4 46.5 Metamorphic Serevite Deposit
+/way #2133 48.5 46.4 Metamorphic Serevite Deposit
+/way #2133 48.5 46.5 Metamorphic Serevite Deposit
+/way #2133 48.7 35.1 Metamorphic Serevite Deposit
+/way #2133 48.8 30.8 Metamorphic Serevite Deposit
+/way #2133 48.8 33.4 Metamorphic Serevite Deposit
+/way #2133 48.8 33.5 Metamorphic Serevite Deposit
+/way #2133 48.9 39.9 Metamorphic Serevite Deposit
+/way #2133 48.9 40.6 Metamorphic Serevite Deposit
+/way #2133 49.3 43.3 Metamorphic Serevite Deposit
+/way #2133 49.6 45.7 Metamorphic Serevite Deposit
+/way #2133 49.6 49.5 Metamorphic Serevite Deposit
+/way #2133 49.7 49.4 Metamorphic Serevite Deposit
+/way #2133 49.8 34.1 Metamorphic Serevite Deposit
+/way #2133 50.6 42.9 Metamorphic Serevite Deposit
+/way #2133 51.2 51.0 Metamorphic Serevite Deposit
+/way #2133 51.9 45.2 Metamorphic Serevite Deposit
+/way #2133 56.1 68.5 Metamorphic Serevite Deposit
+/way #2133 56.2 68.4 Metamorphic Serevite Deposit
+/way #2133 57.1 65.3 Metamorphic Serevite Deposit
+/way #2133 58.4 64.4 Metamorphic Serevite Deposit
+/way #2133 58.4 68.4 Metamorphic Serevite Deposit
+/way #2133 58.4 68.5 Metamorphic Serevite Deposit
+/way #2133 58.5 64.3 Metamorphic Serevite Deposit
+/way #2133 58.5 68.3 Metamorphic Serevite Deposit
+/way #2133 59.3 50.0 Metamorphic Serevite Deposit
+/way #2133 60.1 57.4 Metamorphic Serevite Deposit
+/way #2133 60.1 57.5 Metamorphic Serevite Deposit
+/way #2133 61.1 51.4 Metamorphic Serevite Deposit
+/way #2133 61.1 51.5 Metamorphic Serevite Deposit
+/way #2133 61.3 54.2 Metamorphic Serevite Deposit
+/way #2133 61.4 54.9 Metamorphic Serevite Deposit
+/way #2133 61.5 55.0 Metamorphic Serevite Deposit
+/way #2133 62.1 51.3 Metamorphic Serevite Deposit
+/way #2133 62.1 51.5 Metamorphic Serevite Deposit
+/way #2133 62.4 52.7 Metamorphic Serevite Deposit
+/way #2133 62.5 52.7 Metamorphic Serevite Deposit
+/way #2133 72.3 49.1 Metamorphic Serevite Deposit
+/way #2133 37.2 90.5 Primal Serevite Deposit
+/way #2133 40.3 55.6 Primal Serevite Deposit
+/way #2133 41.6 44.3 Primal Serevite Deposit
+/way #2133 41.9 41.4 Primal Serevite Deposit
+/way #2133 41.9 41.5 Primal Serevite Deposit
+/way #2133 43.0 42.6 Primal Serevite Deposit
+/way #2133 43.4 50.2 Primal Serevite Deposit
+/way #2133 43.9 44.4 Primal Serevite Deposit
+/way #2133 43.9 44.5 Primal Serevite Deposit
+/way #2133 44.2 47.0 Primal Serevite Deposit
+/way #2133 44.4 41.6 Primal Serevite Deposit
+/way #2133 44.4 49.4 Primal Serevite Deposit
+/way #2133 44.4 54.6 Primal Serevite Deposit
+/way #2133 44.5 49.4 Primal Serevite Deposit
+/way #2133 45.3 36.9 Primal Serevite Deposit
+/way #2133 45.8 49.9 Primal Serevite Deposit
+/way #2133 46.4 45.4 Primal Serevite Deposit
+/way #2133 46.4 45.5 Primal Serevite Deposit
+/way #2133 46.4 47.4 Primal Serevite Deposit
+/way #2133 46.4 47.5 Primal Serevite Deposit
+/way #2133 46.9 41.9 Primal Serevite Deposit
+/way #2133 47.0 41.3 Primal Serevite Deposit
+/way #2133 47.2 50.4 Primal Serevite Deposit
+/way #2133 47.3 50.5 Primal Serevite Deposit
+/way #2133 47.4 43.2 Primal Serevite Deposit
+/way #2133 47.5 43.2 Primal Serevite Deposit
+/way #2133 48.0 48.4 Primal Serevite Deposit
+/way #2133 48.1 34.9 Primal Serevite Deposit
+/way #2133 48.3 44.1 Primal Serevite Deposit
+/way #2133 48.3 46.0 Primal Serevite Deposit
+/way #2133 48.4 39.4 Primal Serevite Deposit
+/way #2133 48.4 39.5 Primal Serevite Deposit
+/way #2133 48.4 46.5 Primal Serevite Deposit
+/way #2133 48.5 46.5 Primal Serevite Deposit
+/way #2133 48.7 35.1 Primal Serevite Deposit
+/way #2133 48.8 30.9 Primal Serevite Deposit
+/way #2133 48.8 33.4 Primal Serevite Deposit
+/way #2133 48.9 39.9 Primal Serevite Deposit
+/way #2133 48.9 40.6 Primal Serevite Deposit
+/way #2133 49.3 43.3 Primal Serevite Deposit
+/way #2133 49.6 45.7 Primal Serevite Deposit
+/way #2133 49.6 49.5 Primal Serevite Deposit
+/way #2133 49.7 49.4 Primal Serevite Deposit
+/way #2133 49.8 34.1 Primal Serevite Deposit
+/way #2133 50.6 42.9 Primal Serevite Deposit
+/way #2133 51.2 51.0 Primal Serevite Deposit
+/way #2133 51.8 45.2 Primal Serevite Deposit
+/way #2133 56.1 68.5 Primal Serevite Deposit
+/way #2133 56.2 68.4 Primal Serevite Deposit
+/way #2133 57.1 65.3 Primal Serevite Deposit
+/way #2133 58.4 64.4 Primal Serevite Deposit
+/way #2133 58.4 68.4 Primal Serevite Deposit
+/way #2133 58.4 68.5 Primal Serevite Deposit
+/way #2133 58.5 64.3 Primal Serevite Deposit
+/way #2133 58.5 68.3 Primal Serevite Deposit
+/way #2133 59.3 50.0 Primal Serevite Deposit
+/way #2133 60.1 57.4 Primal Serevite Deposit
+/way #2133 60.1 57.5 Primal Serevite Deposit
+/way #2133 61.1 51.4 Primal Serevite Deposit
+/way #2133 61.1 51.5 Primal Serevite Deposit
+/way #2133 61.3 54.2 Primal Serevite Deposit
+/way #2133 61.4 54.9 Primal Serevite Deposit
+/way #2133 61.5 54.9 Primal Serevite Deposit
+/way #2133 62.1 51.4 Primal Serevite Deposit
+/way #2133 62.1 51.5 Primal Serevite Deposit
+/way #2133 62.4 52.7 Primal Serevite Deposit
+/way #2133 62.5 52.7 Primal Serevite Deposit
+/way #2133 72.3 49.1 Primal Serevite Deposit
+/way #2133 37.2 90.5 Molten Serevite Deposit
+/way #2133 40.3 55.4 Molten Serevite Deposit
+/way #2133 40.3 55.6 Molten Serevite Deposit
+/way #2133 41.6 44.3 Molten Serevite Deposit
+/way #2133 41.9 41.4 Molten Serevite Deposit
+/way #2133 41.9 41.5 Molten Serevite Deposit
+/way #2133 43.0 42.7 Molten Serevite Deposit
+/way #2133 43.4 50.2 Molten Serevite Deposit
+/way #2133 43.8 44.4 Molten Serevite Deposit
+/way #2133 43.9 44.5 Molten Serevite Deposit
+/way #2133 44.2 47.0 Molten Serevite Deposit
+/way #2133 44.4 41.6 Molten Serevite Deposit
+/way #2133 44.4 49.4 Molten Serevite Deposit
+/way #2133 44.4 49.5 Molten Serevite Deposit
+/way #2133 44.4 54.6 Molten Serevite Deposit
+/way #2133 44.5 49.4 Molten Serevite Deposit
+/way #2133 45.3 36.9 Molten Serevite Deposit
+/way #2133 45.8 49.9 Molten Serevite Deposit
+/way #2133 46.3 45.4 Molten Serevite Deposit
+/way #2133 46.4 45.5 Molten Serevite Deposit
+/way #2133 46.4 47.5 Molten Serevite Deposit
+/way #2133 46.9 41.9 Molten Serevite Deposit
+/way #2133 47.0 41.3 Molten Serevite Deposit
+/way #2133 47.2 50.4 Molten Serevite Deposit
+/way #2133 47.3 50.5 Molten Serevite Deposit
+/way #2133 47.4 43.2 Molten Serevite Deposit
+/way #2133 47.5 43.2 Molten Serevite Deposit
+/way #2133 48.0 48.4 Molten Serevite Deposit
+/way #2133 48.1 34.9 Molten Serevite Deposit
+/way #2133 48.3 44.1 Molten Serevite Deposit
+/way #2133 48.3 46.0 Molten Serevite Deposit
+/way #2133 48.4 39.4 Molten Serevite Deposit
+/way #2133 48.4 39.5 Molten Serevite Deposit
+/way #2133 48.4 46.5 Molten Serevite Deposit
+/way #2133 48.5 46.4 Molten Serevite Deposit
+/way #2133 48.5 46.5 Molten Serevite Deposit
+/way #2133 48.7 35.1 Molten Serevite Deposit
+/way #2133 48.8 30.8 Molten Serevite Deposit
+/way #2133 48.8 33.5 Molten Serevite Deposit
+/way #2133 48.9 33.3 Molten Serevite Deposit
+/way #2133 48.9 39.9 Molten Serevite Deposit
+/way #2133 48.9 40.7 Molten Serevite Deposit
+/way #2133 49.3 43.3 Molten Serevite Deposit
+/way #2133 49.6 45.7 Molten Serevite Deposit
+/way #2133 49.6 49.5 Molten Serevite Deposit
+/way #2133 49.7 49.4 Molten Serevite Deposit
+/way #2133 50.0 33.8 Molten Serevite Deposit
+/way #2133 50.6 42.9 Molten Serevite Deposit
+/way #2133 51.2 51.0 Molten Serevite Deposit
+/way #2133 51.9 45.2 Molten Serevite Deposit
+/way #2133 56.1 68.5 Molten Serevite Deposit
+/way #2133 56.2 68.4 Molten Serevite Deposit
+/way #2133 57.1 65.3 Molten Serevite Deposit
+/way #2133 58.4 64.4 Molten Serevite Deposit
+/way #2133 58.4 68.4 Molten Serevite Deposit
+/way #2133 58.4 68.5 Molten Serevite Deposit
+/way #2133 58.5 68.3 Molten Serevite Deposit
+/way #2133 59.3 50.0 Molten Serevite Deposit
+/way #2133 60.1 57.4 Molten Serevite Deposit
+/way #2133 61.1 51.4 Molten Serevite Deposit
+/way #2133 61.1 51.5 Molten Serevite Deposit
+/way #2133 61.3 54.2 Molten Serevite Deposit
+/way #2133 61.4 54.9 Molten Serevite Deposit
+/way #2133 61.5 54.9 Molten Serevite Deposit
+/way #2133 62.1 51.3 Molten Serevite Deposit
+/way #2133 62.1 51.5 Molten Serevite Deposit
+/way #2133 62.4 52.7 Molten Serevite Deposit
+/way #2133 62.5 52.7 Molten Serevite Deposit
+/way #2133 72.3 49.1 Molten Serevite Deposit
+/way #2133 37.2 90.5 Hardened Serevite Deposit
+/way #2133 40.3 55.6 Hardened Serevite Deposit
+/way #2133 41.6 44.3 Hardened Serevite Deposit
+/way #2133 41.9 41.4 Hardened Serevite Deposit
+/way #2133 43.0 42.7 Hardened Serevite Deposit
+/way #2133 43.4 50.3 Hardened Serevite Deposit
+/way #2133 43.9 44.5 Hardened Serevite Deposit
+/way #2133 44.2 47.0 Hardened Serevite Deposit
+/way #2133 44.4 41.6 Hardened Serevite Deposit
+/way #2133 44.4 49.4 Hardened Serevite Deposit
+/way #2133 44.4 49.5 Hardened Serevite Deposit
+/way #2133 44.4 54.6 Hardened Serevite Deposit
+/way #2133 44.5 54.5 Hardened Serevite Deposit
+/way #2133 45.3 36.9 Hardened Serevite Deposit
+/way #2133 45.8 49.9 Hardened Serevite Deposit
+/way #2133 46.4 45.4 Hardened Serevite Deposit
+/way #2133 46.4 45.5 Hardened Serevite Deposit
+/way #2133 46.4 47.4 Hardened Serevite Deposit
+/way #2133 46.4 47.5 Hardened Serevite Deposit
+/way #2133 46.9 41.9 Hardened Serevite Deposit
+/way #2133 47.0 41.3 Hardened Serevite Deposit
+/way #2133 47.2 50.4 Hardened Serevite Deposit
+/way #2133 47.2 50.5 Hardened Serevite Deposit
+/way #2133 47.4 43.2 Hardened Serevite Deposit
+/way #2133 47.5 43.2 Hardened Serevite Deposit
+/way #2133 48.0 48.4 Hardened Serevite Deposit
+/way #2133 48.1 34.9 Hardened Serevite Deposit
+/way #2133 48.3 44.1 Hardened Serevite Deposit
+/way #2133 48.3 46.0 Hardened Serevite Deposit
+/way #2133 48.4 39.4 Hardened Serevite Deposit
+/way #2133 48.4 39.5 Hardened Serevite Deposit
+/way #2133 48.4 46.5 Hardened Serevite Deposit
+/way #2133 48.5 46.5 Hardened Serevite Deposit
+/way #2133 48.7 35.1 Hardened Serevite Deposit
+/way #2133 48.8 30.8 Hardened Serevite Deposit
+/way #2133 48.8 33.3 Hardened Serevite Deposit
+/way #2133 48.8 33.5 Hardened Serevite Deposit
+/way #2133 48.9 39.9 Hardened Serevite Deposit
+/way #2133 48.9 40.6 Hardened Serevite Deposit
+/way #2133 49.3 43.3 Hardened Serevite Deposit
+/way #2133 49.6 45.7 Hardened Serevite Deposit
+/way #2133 49.6 49.5 Hardened Serevite Deposit
+/way #2133 49.7 49.4 Hardened Serevite Deposit
+/way #2133 50.0 33.8 Hardened Serevite Deposit
+/way #2133 50.6 42.9 Hardened Serevite Deposit
+/way #2133 51.2 51.0 Hardened Serevite Deposit
+/way #2133 51.9 45.2 Hardened Serevite Deposit
+/way #2133 56.1 68.5 Hardened Serevite Deposit
+/way #2133 56.2 68.4 Hardened Serevite Deposit
+/way #2133 57.1 65.3 Hardened Serevite Deposit
+/way #2133 58.4 64.4 Hardened Serevite Deposit
+/way #2133 58.4 68.4 Hardened Serevite Deposit
+/way #2133 58.5 68.3 Hardened Serevite Deposit
+/way #2133 59.3 50.0 Hardened Serevite Deposit
+/way #2133 60.1 57.4 Hardened Serevite Deposit
+/way #2133 60.1 57.5 Hardened Serevite Deposit
+/way #2133 61.1 51.4 Hardened Serevite Deposit
+/way #2133 61.1 51.5 Hardened Serevite Deposit
+/way #2133 61.3 54.2 Hardened Serevite Deposit
+/way #2133 61.4 54.9 Hardened Serevite Deposit
+/way #2133 61.5 54.9 Hardened Serevite Deposit
+/way #2133 62.1 51.4 Hardened Serevite Deposit
+/way #2133 62.1 51.5 Hardened Serevite Deposit
+/way #2133 62.4 52.7 Hardened Serevite Deposit
+/way #2133 62.5 52.7 Hardened Serevite Deposit
+/way #2133 72.3 49.1 Hardened Serevite Deposit
+/way #2133 37.2 90.5 Serevite Deposit
+/way #2133 40.3 55.6 Serevite Deposit
+/way #2133 40.4 55.4 Serevite Deposit
+/way #2133 41.6 44.3 Serevite Deposit
+/way #2133 41.9 41.4 Serevite Deposit
+/way #2133 41.9 41.5 Serevite Deposit
+/way #2133 43.0 42.7 Serevite Deposit
+/way #2133 43.4 50.2 Serevite Deposit
+/way #2133 43.8 44.4 Serevite Deposit
+/way #2133 43.9 44.5 Serevite Deposit
+/way #2133 44.2 47.0 Serevite Deposit
+/way #2133 44.4 41.6 Serevite Deposit
+/way #2133 44.4 49.4 Serevite Deposit
+/way #2133 44.4 49.5 Serevite Deposit
+/way #2133 44.4 54.6 Serevite Deposit
+/way #2133 44.5 49.4 Serevite Deposit
+/way #2133 44.5 54.5 Serevite Deposit
+/way #2133 45.3 36.9 Serevite Deposit
+/way #2133 45.8 49.9 Serevite Deposit
+/way #2133 46.4 45.4 Serevite Deposit
+/way #2133 46.4 45.5 Serevite Deposit
+/way #2133 46.4 47.4 Serevite Deposit
+/way #2133 46.4 47.5 Serevite Deposit
+/way #2133 46.9 41.9 Serevite Deposit
+/way #2133 47.0 41.3 Serevite Deposit
+/way #2133 47.2 50.4 Serevite Deposit
+/way #2133 47.3 50.5 Serevite Deposit
+/way #2133 47.4 43.2 Serevite Deposit
+/way #2133 47.5 43.2 Serevite Deposit
+/way #2133 47.9 47.3 Serevite Deposit
+/way #2133 48.0 48.4 Serevite Deposit
+/way #2133 48.0 48.5 Serevite Deposit
+/way #2133 48.1 34.9 Serevite Deposit
+/way #2133 48.3 44.2 Serevite Deposit
+/way #2133 48.3 46.0 Serevite Deposit
+/way #2133 48.4 39.4 Serevite Deposit
+/way #2133 48.4 39.5 Serevite Deposit
+/way #2133 48.5 46.4 Serevite Deposit
+/way #2133 48.5 46.5 Serevite Deposit
+/way #2133 48.7 35.1 Serevite Deposit
+/way #2133 48.8 30.8 Serevite Deposit
+/way #2133 48.8 33.4 Serevite Deposit
+/way #2133 48.8 33.5 Serevite Deposit
+/way #2133 48.9 39.9 Serevite Deposit
+/way #2133 48.9 40.6 Serevite Deposit
+/way #2133 49.3 43.3 Serevite Deposit
+/way #2133 49.6 45.7 Serevite Deposit
+/way #2133 49.6 49.5 Serevite Deposit
+/way #2133 49.7 49.4 Serevite Deposit
+/way #2133 50.0 33.8 Serevite Deposit
+/way #2133 50.6 42.9 Serevite Deposit
+/way #2133 51.2 51.0 Serevite Deposit
+/way #2133 51.9 45.2 Serevite Deposit
+/way #2133 56.1 68.5 Serevite Deposit
+/way #2133 56.2 68.4 Serevite Deposit
+/way #2133 57.1 65.3 Serevite Deposit
+/way #2133 58.4 64.4 Serevite Deposit
+/way #2133 58.4 68.4 Serevite Deposit
+/way #2133 58.4 68.5 Serevite Deposit
+/way #2133 58.5 64.3 Serevite Deposit
+/way #2133 58.5 68.3 Serevite Deposit
+/way #2133 59.3 50.0 Serevite Deposit
+/way #2133 60.1 57.4 Serevite Deposit
+/way #2133 60.1 57.5 Serevite Deposit
+/way #2133 61.1 51.4 Serevite Deposit
+/way #2133 61.1 51.5 Serevite Deposit
+/way #2133 61.3 54.2 Serevite Deposit
+/way #2133 61.4 54.9 Serevite Deposit
+/way #2133 61.5 55.0 Serevite Deposit
+/way #2133 62.1 51.4 Serevite Deposit
+/way #2133 62.1 51.5 Serevite Deposit
+/way #2133 62.4 52.7 Serevite Deposit
+/way #2133 62.5 52.7 Serevite Deposit
+/way #2133 72.3 49.1 Serevite Deposit
+/way #2133 37.2 90.5 Infurious Serevite Deposit
+/way #2133 40.3 55.6 Infurious Serevite Deposit
+/way #2133 41.6 44.3 Infurious Serevite Deposit
+/way #2133 41.9 41.4 Infurious Serevite Deposit
+/way #2133 41.9 41.5 Infurious Serevite Deposit
+/way #2133 43.0 42.6 Infurious Serevite Deposit
+/way #2133 43.4 50.2 Infurious Serevite Deposit
+/way #2133 43.9 44.5 Infurious Serevite Deposit
+/way #2133 44.4 41.6 Infurious Serevite Deposit
+/way #2133 44.4 49.5 Infurious Serevite Deposit
+/way #2133 44.4 54.6 Infurious Serevite Deposit
+/way #2133 45.3 36.9 Infurious Serevite Deposit
+/way #2133 45.8 49.9 Infurious Serevite Deposit
+/way #2133 46.4 45.5 Infurious Serevite Deposit
+/way #2133 46.4 47.5 Infurious Serevite Deposit
+/way #2133 46.9 41.9 Infurious Serevite Deposit
+/way #2133 47.0 41.3 Infurious Serevite Deposit
+/way #2133 47.3 50.5 Infurious Serevite Deposit
+/way #2133 47.5 43.2 Infurious Serevite Deposit
+/way #2133 47.5 47.6 Infurious Serevite Deposit
+/way #2133 48.1 35.0 Infurious Serevite Deposit
+/way #2133 48.3 44.1 Infurious Serevite Deposit
+/way #2133 48.3 46.0 Infurious Serevite Deposit
+/way #2133 48.4 39.4 Infurious Serevite Deposit
+/way #2133 48.4 39.5 Infurious Serevite Deposit
+/way #2133 48.4 46.5 Infurious Serevite Deposit
+/way #2133 48.5 46.5 Infurious Serevite Deposit
+/way #2133 48.7 35.1 Infurious Serevite Deposit
+/way #2133 48.8 30.9 Infurious Serevite Deposit
+/way #2133 48.8 33.3 Infurious Serevite Deposit
+/way #2133 48.9 39.9 Infurious Serevite Deposit
+/way #2133 48.9 40.6 Infurious Serevite Deposit
+/way #2133 49.2 43.3 Infurious Serevite Deposit
+/way #2133 49.6 45.7 Infurious Serevite Deposit
+/way #2133 49.7 49.4 Infurious Serevite Deposit
+/way #2133 49.7 49.5 Infurious Serevite Deposit
+/way #2133 50.0 33.8 Infurious Serevite Deposit
+/way #2133 50.6 42.9 Infurious Serevite Deposit
+/way #2133 51.2 51.0 Infurious Serevite Deposit
+/way #2133 51.9 45.2 Infurious Serevite Deposit
+/way #2133 56.1 68.5 Infurious Serevite Deposit
+/way #2133 57.1 65.3 Infurious Serevite Deposit
+/way #2133 58.4 64.4 Infurious Serevite Deposit
+/way #2133 58.4 68.4 Infurious Serevite Deposit
+/way #2133 59.3 50.0 Infurious Serevite Deposit
+/way #2133 61.1 51.4 Infurious Serevite Deposit
+/way #2133 61.1 51.5 Infurious Serevite Deposit
+/way #2133 61.3 54.1 Infurious Serevite Deposit
+/way #2133 61.4 54.9 Infurious Serevite Deposit
+/way #2133 61.5 54.9 Infurious Serevite Deposit
+/way #2133 62.1 51.3 Infurious Serevite Deposit
+/way #2133 62.4 52.6 Infurious Serevite Deposit
+/way #2133 72.3 49.1 Infurious Serevite Deposit
+/way #2133 37.2 90.5 Rich Serevite Deposit
+/way #2133 40.3 55.4 Rich Serevite Deposit
+/way #2133 40.3 55.6 Rich Serevite Deposit
+/way #2133 41.6 44.3 Rich Serevite Deposit
+/way #2133 41.9 41.4 Rich Serevite Deposit
+/way #2133 41.9 41.5 Rich Serevite Deposit
+/way #2133 43.0 42.7 Rich Serevite Deposit
+/way #2133 43.4 50.2 Rich Serevite Deposit
+/way #2133 43.9 44.4 Rich Serevite Deposit
+/way #2133 43.9 44.5 Rich Serevite Deposit
+/way #2133 44.2 47.0 Rich Serevite Deposit
+/way #2133 44.4 41.6 Rich Serevite Deposit
+/way #2133 44.4 49.4 Rich Serevite Deposit
+/way #2133 44.4 49.5 Rich Serevite Deposit
+/way #2133 44.4 54.6 Rich Serevite Deposit
+/way #2133 44.5 49.4 Rich Serevite Deposit
+/way #2133 44.5 54.6 Rich Serevite Deposit
+/way #2133 45.3 36.9 Rich Serevite Deposit
+/way #2133 45.8 49.9 Rich Serevite Deposit
+/way #2133 46.4 45.4 Rich Serevite Deposit
+/way #2133 46.4 45.5 Rich Serevite Deposit
+/way #2133 46.4 47.4 Rich Serevite Deposit
+/way #2133 46.4 47.5 Rich Serevite Deposit
+/way #2133 46.9 41.9 Rich Serevite Deposit
+/way #2133 47.0 41.3 Rich Serevite Deposit
+/way #2133 47.2 50.4 Rich Serevite Deposit
+/way #2133 47.3 50.5 Rich Serevite Deposit
+/way #2133 47.4 43.2 Rich Serevite Deposit
+/way #2133 47.5 43.2 Rich Serevite Deposit
+/way #2133 48.0 48.4 Rich Serevite Deposit
+/way #2133 48.0 48.5 Rich Serevite Deposit
+/way #2133 48.1 34.9 Rich Serevite Deposit
+/way #2133 48.3 46.0 Rich Serevite Deposit
+/way #2133 48.4 39.4 Rich Serevite Deposit
+/way #2133 48.4 39.5 Rich Serevite Deposit
+/way #2133 48.4 44.1 Rich Serevite Deposit
+/way #2133 48.4 46.5 Rich Serevite Deposit
+/way #2133 48.5 46.4 Rich Serevite Deposit
+/way #2133 48.5 46.5 Rich Serevite Deposit
+/way #2133 48.7 35.1 Rich Serevite Deposit
+/way #2133 48.8 30.8 Rich Serevite Deposit
+/way #2133 48.8 33.4 Rich Serevite Deposit
+/way #2133 48.8 33.5 Rich Serevite Deposit
+/way #2133 48.9 39.9 Rich Serevite Deposit
+/way #2133 48.9 40.6 Rich Serevite Deposit
+/way #2133 49.3 43.3 Rich Serevite Deposit
+/way #2133 49.6 45.7 Rich Serevite Deposit
+/way #2133 49.6 49.5 Rich Serevite Deposit
+/way #2133 49.7 49.4 Rich Serevite Deposit
+/way #2133 49.8 34.1 Rich Serevite Deposit
+/way #2133 50.6 42.9 Rich Serevite Deposit
+/way #2133 51.2 51.0 Rich Serevite Deposit
+/way #2133 51.9 45.2 Rich Serevite Deposit
+/way #2133 56.1 68.5 Rich Serevite Deposit
+/way #2133 56.2 68.4 Rich Serevite Deposit
+/way #2133 57.1 65.3 Rich Serevite Deposit
+/way #2133 58.4 64.4 Rich Serevite Deposit
+/way #2133 58.4 68.4 Rich Serevite Deposit
+/way #2133 58.4 68.5 Rich Serevite Deposit
+/way #2133 58.5 64.3 Rich Serevite Deposit
+/way #2133 58.5 68.3 Rich Serevite Deposit
+/way #2133 59.3 50.0 Rich Serevite Deposit
+/way #2133 60.1 57.4 Rich Serevite Deposit
+/way #2133 60.1 57.5 Rich Serevite Deposit
+/way #2133 61.1 51.4 Rich Serevite Deposit
+/way #2133 61.1 51.5 Rich Serevite Deposit
+/way #2133 61.3 54.2 Rich Serevite Deposit
+/way #2133 61.4 54.9 Rich Serevite Deposit
+/way #2133 61.5 55.0 Rich Serevite Deposit
+/way #2133 62.1 51.3 Rich Serevite Deposit
+/way #2133 62.1 51.5 Rich Serevite Deposit
+/way #2133 62.4 52.7 Rich Serevite Deposit
+/way #2133 62.5 52.7 Rich Serevite Deposit
+/way #2133 72.3 49.1 Rich Serevite Deposit
+/way #2133 38.2 49.6 Serevite Seam
+/way #2133 38.4 52.4 Serevite Seam
+/way #2133 38.4 52.5 Serevite Seam
+/way #2133 38.5 52.4 Serevite Seam
+/way #2133 38.5 52.5 Serevite Seam
+/way #2133 45.7 87.3 Serevite Seam
+/way #2133 54.3 32.8 Serevite Seam
+/way #2133 55.8 30.7 Serevite Seam
+/way #2133 62.3 42.2 Serevite Seam
+/way #2133 65.4 56.3 Serevite Seam
+/way #2133 65.5 56.2 Serevite Seam

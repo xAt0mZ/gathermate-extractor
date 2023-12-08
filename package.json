@@ -1,0 +1,12 @@
+{
+  "name": "gathermate-extractor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "xAt0mZ <xAt0mZ@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "lodash-es": "^4.17.21"
+  }
+}

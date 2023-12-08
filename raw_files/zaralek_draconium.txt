@@ -1,0 +1,163 @@
+/way #2133 29.7 41.4 Titan-Touched Draconium Deposit
+/way #2133 29.9 42.2 Titan-Touched Draconium Deposit
+/way #2133 30.6 50.5 Titan-Touched Draconium Deposit
+/way #2133 30.8 41.3 Titan-Touched Draconium Deposit
+/way #2133 31.2 44.5 Titan-Touched Draconium Deposit
+/way #2133 31.3 44.4 Titan-Touched Draconium Deposit
+/way #2133 31.9 42.3 Titan-Touched Draconium Deposit
+/way #2133 32.5 43.1 Titan-Touched Draconium Deposit
+/way #2133 32.7 44.0 Titan-Touched Draconium Deposit
+/way #2133 33.1 45.1 Titan-Touched Draconium Deposit
+/way #2133 33.5 41.9 Titan-Touched Draconium Deposit
+/way #2133 33.7 44.6 Titan-Touched Draconium Deposit
+/way #2133 34.3 54.0 Titan-Touched Draconium Deposit
+/way #2133 34.7 49.1 Titan-Touched Draconium Deposit
+/way #2133 35.3 43.4 Titan-Touched Draconium Deposit
+/way #2133 35.3 43.5 Titan-Touched Draconium Deposit
+/way #2133 35.3 51.8 Titan-Touched Draconium Deposit
+/way #2133 36.0 42.2 Titan-Touched Draconium Deposit
+/way #2133 49.5 40.5 Titan-Touched Draconium Deposit
+/way #2133 29.7 41.4 Metamorphic Draconium Deposit
+/way #2133 29.9 42.2 Metamorphic Draconium Deposit
+/way #2133 30.6 50.5 Metamorphic Draconium Deposit
+/way #2133 30.8 41.3 Metamorphic Draconium Deposit
+/way #2133 31.2 44.5 Metamorphic Draconium Deposit
+/way #2133 31.3 44.4 Metamorphic Draconium Deposit
+/way #2133 31.9 42.3 Metamorphic Draconium Deposit
+/way #2133 32.5 43.1 Metamorphic Draconium Deposit
+/way #2133 32.6 44.1 Metamorphic Draconium Deposit
+/way #2133 33.1 45.1 Metamorphic Draconium Deposit
+/way #2133 33.6 41.8 Metamorphic Draconium Deposit
+/way #2133 33.7 44.6 Metamorphic Draconium Deposit
+/way #2133 34.3 54.0 Metamorphic Draconium Deposit
+/way #2133 34.7 49.0 Metamorphic Draconium Deposit
+/way #2133 35.3 43.4 Metamorphic Draconium Deposit
+/way #2133 35.3 43.5 Metamorphic Draconium Deposit
+/way #2133 35.3 51.9 Metamorphic Draconium Deposit
+/way #2133 36.0 42.2 Metamorphic Draconium Deposit
+/way #2133 49.5 40.4 Metamorphic Draconium Deposit
+/way #2133 49.5 40.5 Metamorphic Draconium Deposit
+/way #2133 38.2 49.6 Draconium Seam
+/way #2133 38.4 52.4 Draconium Seam
+/way #2133 38.4 52.5 Draconium Seam
+/way #2133 38.5 52.4 Draconium Seam
+/way #2133 38.5 52.5 Draconium Seam
+/way #2133 45.7 87.3 Draconium Seam
+/way #2133 54.3 32.8 Draconium Seam
+/way #2133 55.8 30.7 Draconium Seam
+/way #2133 62.3 42.2 Draconium Seam
+/way #2133 65.4 56.3 Draconium Seam
+/way #2133 65.5 56.2 Draconium Seam
+/way #2133 29.7 41.4 Hardened Draconium Deposit
+/way #2133 29.7 41.5 Hardened Draconium Deposit
+/way #2133 30.6 50.5 Hardened Draconium Deposit
+/way #2133 30.8 41.3 Hardened Draconium Deposit
+/way #2133 31.2 44.4 Hardened Draconium Deposit
+/way #2133 31.2 44.5 Hardened Draconium Deposit
+/way #2133 31.9 42.3 Hardened Draconium Deposit
+/way #2133 32.5 43.1 Hardened Draconium Deposit
+/way #2133 32.7 44.0 Hardened Draconium Deposit
+/way #2133 33.1 45.1 Hardened Draconium Deposit
+/way #2133 33.5 41.9 Hardened Draconium Deposit
+/way #2133 33.7 44.6 Hardened Draconium Deposit
+/way #2133 34.3 54.0 Hardened Draconium Deposit
+/way #2133 34.7 49.0 Hardened Draconium Deposit
+/way #2133 35.3 43.4 Hardened Draconium Deposit
+/way #2133 35.3 43.5 Hardened Draconium Deposit
+/way #2133 35.3 51.8 Hardened Draconium Deposit
+/way #2133 36.0 42.2 Hardened Draconium Deposit
+/way #2133 49.5 40.4 Hardened Draconium Deposit
+/way #2133 49.5 40.5 Hardened Draconium Deposit
+/way #2133 29.7 41.4 Infurious Draconium Deposit
+/way #2133 29.9 42.2 Infurious Draconium Deposit
+/way #2133 30.6 50.5 Infurious Draconium Deposit
+/way #2133 31.2 44.5 Infurious Draconium Deposit
+/way #2133 32.5 43.1 Infurious Draconium Deposit
+/way #2133 32.6 44.0 Infurious Draconium Deposit
+/way #2133 33.1 45.1 Infurious Draconium Deposit
+/way #2133 33.6 41.8 Infurious Draconium Deposit
+/way #2133 33.7 44.6 Infurious Draconium Deposit
+/way #2133 34.3 54.0 Infurious Draconium Deposit
+/way #2133 34.7 49.1 Infurious Draconium Deposit
+/way #2133 35.3 43.3 Infurious Draconium Deposit
+/way #2133 36.0 42.2 Infurious Draconium Deposit
+/way #2133 49.5 40.5 Infurious Draconium Deposit
+/way #2133 29.7 41.4 Rich Draconium Deposit
+/way #2133 29.9 42.2 Rich Draconium Deposit
+/way #2133 30.6 50.5 Rich Draconium Deposit
+/way #2133 30.8 41.3 Rich Draconium Deposit
+/way #2133 31.2 44.5 Rich Draconium Deposit
+/way #2133 31.3 44.4 Rich Draconium Deposit
+/way #2133 31.9 42.3 Rich Draconium Deposit
+/way #2133 32.5 43.1 Rich Draconium Deposit
+/way #2133 32.7 44.0 Rich Draconium Deposit
+/way #2133 33.1 45.1 Rich Draconium Deposit
+/way #2133 33.6 41.8 Rich Draconium Deposit
+/way #2133 33.7 44.6 Rich Draconium Deposit
+/way #2133 34.3 54.0 Rich Draconium Deposit
+/way #2133 34.7 49.1 Rich Draconium Deposit
+/way #2133 35.3 43.4 Rich Draconium Deposit
+/way #2133 35.3 43.5 Rich Draconium Deposit
+/way #2133 35.3 51.8 Rich Draconium Deposit
+/way #2133 36.0 42.2 Rich Draconium Deposit
+/way #2133 49.5 40.4 Rich Draconium Deposit
+/way #2133 49.5 40.5 Rich Draconium Deposit
+/way #2133 29.7 41.4 Primal Draconium Deposit
+/way #2133 29.7 41.5 Primal Draconium Deposit
+/way #2133 30.6 50.5 Primal Draconium Deposit
+/way #2133 30.8 41.3 Primal Draconium Deposit
+/way #2133 31.2 44.5 Primal Draconium Deposit
+/way #2133 31.3 44.4 Primal Draconium Deposit
+/way #2133 31.9 42.3 Primal Draconium Deposit
+/way #2133 32.5 43.1 Primal Draconium Deposit
+/way #2133 32.7 44.0 Primal Draconium Deposit
+/way #2133 33.1 45.1 Primal Draconium Deposit
+/way #2133 33.5 41.9 Primal Draconium Deposit
+/way #2133 33.7 44.5 Primal Draconium Deposit
+/way #2133 34.3 54.0 Primal Draconium Deposit
+/way #2133 34.7 49.1 Primal Draconium Deposit
+/way #2133 35.3 43.3 Primal Draconium Deposit
+/way #2133 35.3 51.8 Primal Draconium Deposit
+/way #2133 36.0 42.2 Primal Draconium Deposit
+/way #2133 49.5 40.4 Primal Draconium Deposit
+/way #2133 49.5 40.5 Primal Draconium Deposit
+/way #2133 29.7 41.4 Molten Draconium Deposit
+/way #2133 29.7 41.5 Molten Draconium Deposit
+/way #2133 30.6 50.5 Molten Draconium Deposit
+/way #2133 30.8 41.3 Molten Draconium Deposit
+/way #2133 31.2 44.5 Molten Draconium Deposit
+/way #2133 31.3 44.4 Molten Draconium Deposit
+/way #2133 31.9 42.3 Molten Draconium Deposit
+/way #2133 32.5 43.1 Molten Draconium Deposit
+/way #2133 32.6 44.1 Molten Draconium Deposit
+/way #2133 33.1 45.1 Molten Draconium Deposit
+/way #2133 33.5 41.9 Molten Draconium Deposit
+/way #2133 33.7 44.5 Molten Draconium Deposit
+/way #2133 34.3 54.0 Molten Draconium Deposit
+/way #2133 34.7 49.0 Molten Draconium Deposit
+/way #2133 35.3 43.4 Molten Draconium Deposit
+/way #2133 35.3 43.5 Molten Draconium Deposit
+/way #2133 35.3 51.8 Molten Draconium Deposit
+/way #2133 36.0 42.2 Molten Draconium Deposit
+/way #2133 49.5 40.4 Molten Draconium Deposit
+/way #2133 49.5 40.5 Molten Draconium Deposit
+/way #2133 29.7 41.4 Draconium Deposit
+/way #2133 29.9 42.1 Draconium Deposit
+/way #2133 30.6 50.5 Draconium Deposit
+/way #2133 30.8 41.3 Draconium Deposit
+/way #2133 31.2 44.5 Draconium Deposit
+/way #2133 31.3 44.4 Draconium Deposit
+/way #2133 31.9 42.3 Draconium Deposit
+/way #2133 32.5 43.1 Draconium Deposit
+/way #2133 32.7 44.1 Draconium Deposit
+/way #2133 33.1 45.1 Draconium Deposit
+/way #2133 33.6 41.8 Draconium Deposit
+/way #2133 33.7 44.6 Draconium Deposit
+/way #2133 34.3 54.0 Draconium Deposit
+/way #2133 34.7 49.0 Draconium Deposit
+/way #2133 35.3 43.4 Draconium Deposit
+/way #2133 35.3 43.5 Draconium Deposit
+/way #2133 35.3 51.9 Draconium Deposit
+/way #2133 36.0 42.2 Draconium Deposit
+/way #2133 49.5 40.4 Draconium Deposit
+/way #2133 49.5 40.5 Draconium Deposit
